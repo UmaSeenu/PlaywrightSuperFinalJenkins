@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 28 13:37:01 IST 2025","Mon Jul 28 13:37:14 IST 2025","13839","chromium","loginusingexternaltestdata.spec.js","","","","@login using placeholder/label/role locators",""

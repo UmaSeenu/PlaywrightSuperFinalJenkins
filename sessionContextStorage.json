@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "AUTH_SESSION_ID",
+      "value": "b25b93a0-5be3-4ca7-8e3a-0def80492f21",
+      "domain": "hcm-auth-uat.teamlease.com",
+      "path": "/realms/hiretech/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AUTH_SESSION_ID_LEGACY",
+      "value": "b25b93a0-5be3-4ca7-8e3a-0def80492f21",
+      "domain": "hcm-auth-uat.teamlease.com",
+      "path": "/realms/hiretech/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJlMzVlZDVmNC1lYmVlLTQxYTEtOWI5NC0zNmM3M2ZiZDlmNTUifQ.eyJleHAiOjE3NTM0MDQ5NzIsImlhdCI6MTc1MzM2ODk3MiwianRpIjoiMDYyNzM5MTItNjRiYS00ZGI4LTk2NGQtMDNiMDBjYmViNzdiIiwiaXNzIjoiaHR0cHM6Ly9oY20tYXV0aC11YXQudGVhbWxlYXNlLmNvbTozMDM1L3JlYWxtcy9oaXJldGVjaCIsInN1YiI6ImI2MGFlOGUzLWYxNzMtNGNiNS1iM2VmLTNkYmYzZWRlZDk5YyIsInR5cCI6IlNlcmlhbGl6ZWQtSUQiLCJzZXNzaW9uX3N0YXRlIjoiYjI1YjkzYTAtNWJlMy00Y2E3LThlM2EtMGRlZjgwNDkyZjIxIiwic2lkIjoiYjI1YjkzYTAtNWJlMy00Y2E3LThlM2EtMGRlZjgwNDkyZjIxIiwic3RhdGVfY2hlY2tlciI6IkRHMmNIREtCaXJoZHIydGI0eGdGa3poR2JybGtQckVodXdMWXdqNlVoYmsifQ.0GoX7VobiXDkVZEHNPX5iwUfPwOwGpZuYFt6MQW1-lsDzOkcXB10FWdhOrcOaudiiMtay9ibYFcQb6yeQPuIbg",
+      "domain": "hcm-auth-uat.teamlease.com",
+      "path": "/realms/hiretech/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY_LEGACY",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJlMzVlZDVmNC1lYmVlLTQxYTEtOWI5NC0zNmM3M2ZiZDlmNTUifQ.eyJleHAiOjE3NTM0MDQ5NzIsImlhdCI6MTc1MzM2ODk3MiwianRpIjoiMDYyNzM5MTItNjRiYS00ZGI4LTk2NGQtMDNiMDBjYmViNzdiIiwiaXNzIjoiaHR0cHM6Ly9oY20tYXV0aC11YXQudGVhbWxlYXNlLmNvbTozMDM1L3JlYWxtcy9oaXJldGVjaCIsInN1YiI6ImI2MGFlOGUzLWYxNzMtNGNiNS1iM2VmLTNkYmYzZWRlZDk5YyIsInR5cCI6IlNlcmlhbGl6ZWQtSUQiLCJzZXNzaW9uX3N0YXRlIjoiYjI1YjkzYTAtNWJlMy00Y2E3LThlM2EtMGRlZjgwNDkyZjIxIiwic2lkIjoiYjI1YjkzYTAtNWJlMy00Y2E3LThlM2EtMGRlZjgwNDkyZjIxIiwic3RhdGVfY2hlY2tlciI6IkRHMmNIREtCaXJoZHIydGI0eGdGa3poR2JybGtQckVodXdMWXdqNlVoYmsifQ.0GoX7VobiXDkVZEHNPX5iwUfPwOwGpZuYFt6MQW1-lsDzOkcXB10FWdhOrcOaudiiMtay9ibYFcQb6yeQPuIbg",
+      "domain": "hcm-auth-uat.teamlease.com",
+      "path": "/realms/hiretech/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_SESSION",
+      "value": "\"hiretech/b60ae8e3-f173-4cb5-b3ef-3dbf3eded99c/b25b93a0-5be3-4ca7-8e3a-0def80492f21\"",
+      "domain": "hcm-auth-uat.teamlease.com",
+      "path": "/realms/hiretech/",
+      "expires": 1753404972.686813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION_LEGACY",
+      "value": "\"hiretech/b60ae8e3-f173-4cb5-b3ef-3dbf3eded99c/b25b93a0-5be3-4ca7-8e3a-0def80492f21\"",
+      "domain": "hcm-auth-uat.teamlease.com",
+      "path": "/realms/hiretech/",
+      "expires": 1753404972.686847,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1531760335.1753368972",
+      "domain": ".teamlease.in",
+      "path": "/",
+      "expires": 1787928973.453518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6B04B0LT2M",
+      "value": "GS2.1.s1753368971$o1$g1$t1753368974$j57$l0$h0",
+      "domain": ".teamlease.in",
+      "path": "/",
+      "expires": 1787928974.580224,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

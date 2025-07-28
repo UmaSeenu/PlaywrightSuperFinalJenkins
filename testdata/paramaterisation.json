@@ -1,0 +1,12 @@
+[{
+    "username": "umashreyas14@gmail.com",
+    "password": "Test@123",
+    "loginUrl": "https://rahulshettyacademy.com/client/",
+    "scriptname":"validcreds"
+},
+{
+    "username": "umashreyas145@gmail.com",
+    "password": "Test@123",
+    "loginUrl": "https://rahulshettyacademy.com/client/",
+     "scriptname":"invalidcreds"
+}]
