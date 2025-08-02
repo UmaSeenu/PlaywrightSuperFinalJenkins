@@ -40,3 +40,14 @@ console.log(marks2.reduce((sum,sumnew) => sum + sumnew, 0)); // Out
 console.log(marks2.map((mark)=>mark * 2)); // Output: [120, 140, 160, 66, 44, 22]
 
 
+let fruits = ['apple','pomogranate', 'banana', 'cherry'];
+console.log(fruits.sort()); // Output: ['apple', 'banana', 'cherry', 'pomogranate']
+console.log(fruits.reverse()); // Output: ['pomogranate', 'cherry', 'banana', 'apple']
+console.log(fruits.join(' - ')); // Output: 'apple - pomogranate - banana - cherry'
+console.log(fruits.toString()); // Output: 'apple,pomogranate,banana,cherry'
+console.log(fruits.includes('banana')); // Output: true
+console.log(fruits.indexOf('banana')); // Output: 2
+
+let numbers = [1, 2, 6,7,3, 4, 5];
+console.log(numbers.sort((a, b) => a - b)); // Output: [1, 2, 3, 4, 5, 6, 7]
+console.log(numbers.sort((a, b) => b - a)); // Output: [7
